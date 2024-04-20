@@ -7,3 +7,4 @@ New content for more
 And it is astonishing
 
 And one more for master branch
+One more line for tags
